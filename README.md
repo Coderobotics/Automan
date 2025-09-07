@@ -13,22 +13,22 @@ It covers following core modules now:
 Please have more details about each modules here:
 
 Purchase Management:
-http://coderobotics.com/?page_id=11102
+https://www.aspscriptsonline.com/product/asp.net-mvc5-erp-software
 
 Sales & Distribution:
-http://coderobotics.com/?page_id=10950
+https://www.aspscriptsonline.com/product/asp.net-mvc5-erp-software
 
 Inventory & Stock Management:
-http://coderobotics.com/?page_id=11104
+https://www.aspscriptsonline.com/product/asp.net-mvc5-erp-software
 
 Material Resource Planning:
-http://coderobotics.com/?page_id=11106
+https://www.aspscriptsonline.com/product/asp.net-mvc5-erp-software
 
 Banking & Accounting:
-http://coderobotics.com/?page_id=11108
+https://www.aspscriptsonline.com/product/asp.net-mvc5-erp-software
 
 Reports & Analysis:
-http://coderobotics.com/?page_id=11110
+https://www.aspscriptsonline.com/product/asp.net-mvc5-erp-software
 
 Please have live video demo of Automan ERP:
 
@@ -37,5 +37,5 @@ https://youtu.be/ZlifOEYraOI
 https://youtu.be/526SynY8qOc
 
 Thanks,
-Coderobotics, Dev Team.
+Aspscriptsonline Marketplace
 sasi@coderobotics.com
